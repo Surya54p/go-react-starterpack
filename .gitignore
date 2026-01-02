@@ -1,0 +1,20 @@
+# ===== Go =====
+*.exe
+*.out
+*.test
+*.log
+
+# ===== Node / React =====
+node_modules/
+dist/
+build/
+.next/
+.vite/
+
+# ===== Env =====
+.env
+.env.local
+.env.production
+
+# ===== Database / secrets =====
+backend/internal/db/
