@@ -1,4 +1,3 @@
-Siap. Ini **1 BLOK `.md`**, **tinggal copy–paste langsung**, tidak perlu edit apa pun dulu.
 # Go + React Starter Pack
 Monorepo sederhana untuk belajar dan membangun aplikasi dengan:
 - **Backend**: Golang
