@@ -17,4 +17,4 @@ build/
 .env.production
 
 # ===== Database / secrets =====
-backend/internal/db/
+backend/internal/db/connection.go
